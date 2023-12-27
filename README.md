@@ -1,11 +1,10 @@
-![Placeholder Poster](https://github.com/Bomi3002/Bomi3002/blob/main/IMG_1105.JPG) 
-## Tan Yi Ya
+## About Me
 I'm Yi Ya from University Technology Malaysia, currently studying as a Year 1 student in Computer Science (Data Engineering). I really enjoy learning languages like C++, python, javascript. I also enjoy video editing, graphic designs in general. 
-
+![Placeholder Poster](https://github.com/Bomi3002/Bomi3002/blob/main/IMG_1105.JPG) 
 
 ## Connect with Me
-:yt: [Youtube](https://youtube.com/@San30025?si=v3GXAImTjkmAvM4y)
-📸 [Instagram](https://www.instagram.com/y1yaa_?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
+- 🎥 [Youtube](https://youtube.com/@San30025?si=v3GXAImTjkmAvM4y)
+- 📸 [Instagram](https://www.instagram.com/y1yaa_?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 
 Feel free to reach out to me at [tanyiya04@gmail.com] or through any of the social media links above. Let's collaborate!
 
