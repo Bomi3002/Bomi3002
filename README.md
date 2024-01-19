@@ -1,6 +1,6 @@
 ## About Me
 I'm Yi Ya from University Technology Malaysia, currently studying as a Year 1 student in Computer Science (Data Engineering). I really enjoy learning languages like C++, python, javascript. I also enjoy video editing, graphic designs in general. 
-![Placeholder Poster](https://github.com/Bomi3002/Bomi3002/blob/main/IMG_1105.JPG) 
+![Placeholder Poster](https://github.com/Bomi3002/Bomi3002/blob/main/assets/poster.jpg) 
 
 ## Connect with Me
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@San30025?si=v3GXAImTjkmAvM4y)
@@ -11,9 +11,9 @@ Feel free to reach out to me at [tanyiya04@gmail.com] or through any of the soci
 
 
 ## Example of Work
-[![Video Thumbnail](https://i9.ytimg.com/vi_webp/37jqo4ZDLRo/mq1.webp?sqp=CMTzna0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gJigfMA8=&rs=AOn4CLDVD0N2nzrtx8VHTn29wXvEikxTmA)](https://youtu.be/37jqo4ZDLRo?si=-6omHDQ-EWfRKdAW)
-[![Video Thumbnail](https://i9.ytimg.com/vi_webp/QyVm9iafDNI/mqdefault.webp?v=653f6747&sqp=CMTzna0G&rs=AOn4CLBgZsDF1WX5jYckdXnmFP4JWU0NIw)](https://youtu.be/QyVm9iafDNI?si=1JUzWb_jDvJL9bza)
-[![Video Thumbnail](https://i9.ytimg.com/vi_webp/3LwY1RRxxFM/mqdefault.webp?v=658b7159&sqp=CMTzna0G&rs=AOn4CLD3G0JzxJeMletjtgsCPHo634W-Bg)](https://youtu.be/3LwY1RRxxFM?si=VEN5fKXQvsghQ8l9)
+[![Video Thumbnail](https://github.com/Bomi3002/Bomi3002/blob/main/assets/RVCmodel.webp)](https://youtu.be/37jqo4ZDLRo?si=-6omHDQ-EWfRKdAW)
+[![Video Thumbnail](https://github.com/Bomi3002/Bomi3002/blob/main/assets/DesignThinking.webp)](https://youtu.be/QyVm9iafDNI?si=1JUzWb_jDvJL9bza)
+[![Video Thumbnail](https://github.com/Bomi3002/Bomi3002/blob/main/assets/IndustryTalk.webp)](https://youtu.be/3LwY1RRxxFM?si=VEN5fKXQvsghQ8l9)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
