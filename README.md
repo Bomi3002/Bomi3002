@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Bomi3002.Bomi3002" />
+
 ## About Me
 I'm Yi Ya from University Technology Malaysia, currently studying as a Year 1 student in Computer Science (Data Engineering). I really enjoy learning languages like C++, python, javascript. I also enjoy video editing, graphic designs in general. 
 ![Placeholder Poster](https://github.com/Bomi3002/Bomi3002/blob/main/assets/poster.jpg) 
