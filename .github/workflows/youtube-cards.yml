@@ -7,12 +7,12 @@ on:
 
 jobs:
   build:
-    runs-on: README.md
+    runs-on: ubuntu-latest
     # Allow the job to commit to the repository
     permissions:
       contents: write
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - uses: Bomi3002/Bomi3002@main
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC0L6_UW4kVZAVkmf3RujsOg
