@@ -23,8 +23,6 @@ I'm currently studying as a Year 1 student in Computer Science (Data Engineering
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
-<hr/>
-
 
   <br>
  </div>
@@ -43,7 +41,6 @@ I'm currently studying as a Year 1 student in Computer Science (Data Engineering
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
-  <br/><br/>
 
  <hr/>
  
