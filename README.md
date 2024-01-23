@@ -9,6 +9,11 @@ I'm currently studying as a Year 1 student in Computer Science (Data Engineering
 
 <br/><br/><br/>
 
+ <hr/>
+ 
+<h2 align="center">Example of Works</h2>
+<br/>
+    
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Industrial Talk and Visit (UTM Digital)](https://ytcards.demolab.com/?id=3LwY1RRxxFM&title=Industrial+Talk+and+Visit+%28UTM+Digital%29&lang=en&timestamp=1703600615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Industrial Talk and Visit (UTM Digital)")](https://www.youtube.com/watch?v=3LwY1RRxxFM)
 [![Video PSA (Group 1)](https://ytcards.demolab.com/?id=9f3xfwfiwjE&title=Video+PSA+%28Group+1%29&lang=en&timestamp=1703124516&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video PSA (Group 1)")](https://www.youtube.com/watch?v=9f3xfwfiwjE)
@@ -16,22 +21,6 @@ I'm currently studying as a Year 1 student in Computer Science (Data Engineering
 [![[Yoimiya AI cover] - Orange / オレンジ  by  7!!](https://ytcards.demolab.com/?id=37jqo4ZDLRo&title=%5BYoimiya+AI+cover%5D+-+Orange+%2F+%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8++by++7%21%21&lang=en&timestamp=1691763975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "[Yoimiya AI cover] - Orange / オレンジ  by  7!!")](https://www.youtube.com/watch?v=37jqo4ZDLRo)
 [![Making a miniature terrarium!](https://ytcards.demolab.com/?id=X6sFACYthNA&title=Making+a+miniature+terrarium%21&lang=en&timestamp=1678286606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Making a miniature terrarium!")](https://www.youtube.com/watch?v=X6sFACYthNA)
 <!-- END YOUTUBE-CARDS -->
-
- <hr/>
- 
-<h2 align="center">Example of Works</h2>
-<br/>
-<div align="center">
-    <a href="https://youtu.be/37jqo4ZDLRo?si=-6omHDQ-EWfRKdAW">
-    <img src="https://github.com/Bomi3002/Bomi3002/blob/main/assets/RVCmodel.webp" />
-    </a>
-    <a href="https://youtu.be/3LwY1RRxxFM?si=VEN5fKXQvsghQ8l9">
-    <img src="https://github.com/Bomi3002/Bomi3002/blob/main/assets/DesignThinking.webp" />
-    </a>
-    <a href="https://youtu.be/3LwY1RRxxFM?si=VEN5fKXQvsghQ8l9">
-    <img src="https://github.com/Bomi3002/Bomi3002/blob/main/assets/IndustryTalk.webp" />
-    </a>
-</div>
 
 <br/>
 <hr/>
